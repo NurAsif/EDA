@@ -1,5 +1,4 @@
 # Exploratory Data Analysis on AI Assistant Usage in Student Life
-Here’s a polished **README-style description** you can use for your **GitHub repository** for this notebook/project:
 
 ---
 
